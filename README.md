@@ -7,14 +7,14 @@ Simple utility for 2d grid of characters.
 
 ## Installation
 
-```
+```toml
 [dependencies]
 grid = "0.1.1"
 ```
 
 ## Examples
 
-```
+```rust
 let mut grid = Grid::new(10, 10);
 
 grid.set(0, 0, '.');
