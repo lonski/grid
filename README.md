@@ -9,7 +9,7 @@ Simple utility for 2d grid of characters.
 
 ```
 [dependencies]
-grid = "0.1.0"
+grid = "0.1.1"
 ```
 
 ## Examples
