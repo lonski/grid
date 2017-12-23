@@ -4,5 +4,7 @@ version = "0.1.0"
 authors = ["Michal Lonski <michal.lonski@nokia.com>"]
 description = "Simple 2D grid of characters."
 license = "MIT"
+repository = "https://github.com/lonski/grid-rs"
+keywords = ["grid","2d"]
 
 [dependencies]
